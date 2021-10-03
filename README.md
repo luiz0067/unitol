@@ -1,4 +1,5 @@
 # unitol
+INSTITUTIONAL WEB SITE
 
 run in mysql /adm/sql.sql
 
