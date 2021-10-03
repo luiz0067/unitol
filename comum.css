@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#logo {
+background: url(../logo.png) !important;
+background: none;
+filter: none !important;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../logo.png',sizingMethod='image');
+}
